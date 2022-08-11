@@ -1,17 +1,10 @@
-
-<h align = "center" > _Current Streak_  <h>
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sh9hid)](https://git.io/streak-stats)
-</br>
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sh9hid.Sh9hid">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+This+is+Abdullah+Shahid!;👋;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+This+is+Abdullah+Shahid!👋;&center=true&size=30">
   </a>
 </h1>
-
 <br>
 <p align="center">
   Hi, I'm Shahid. A Software Developer, and an open source contributor and a student!🥷👨‍💻 
@@ -43,7 +36,7 @@
   </a>
 </p>
 <br>
-<h2 " >That's what I'm talking about 😉</h2>
+<h2 " ></h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,solidity,aws,kubernetes,googlecloud,tensorflow,flutter,electron,docker" />
@@ -51,6 +44,10 @@
 </p>
 <hr>
 
+ _Current Streak_  
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sh9hid)](https://git.io/streak-stats)
+</br>
 
   <br>
   <br>
@@ -58,7 +55,7 @@
 
   <hr>
 
-<h2 align="center">⚡ Shtatz ⚡</h2>
+<h2 align="center">⚡ Sh-tatz ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
