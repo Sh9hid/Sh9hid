@@ -14,4 +14,4 @@ This is a list tracking my books, blog-posts, articles that I have yet to read o
   + [Deep Learning - Ian Goodfellow, Yoshua Bengio, +1](https://www.deeplearningbook.org/)
   + [RL Book](http://incompleteideas.net/book/RLbook2020.pdf)
   + [Psychology Classic](http://psychclassics.yorku.ca/James/Principles/index.html)
-  + [Data Science Handbook] (https://jakevdp.github.io/PythonDataScienceHandbook/)
+  + [Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
