@@ -13,3 +13,4 @@ This is a list tracking my books, blog-posts, articles that I have yet to read o
  3. Books
   + [Deep Learning - Ian Goodfellow, Yoshua Bengio, +1](https://www.deeplearningbook.org/)
   + [RL Book](http://incompleteideas.net/book/RLbook2020.pdf)
+  + [Psychology Classics](http://psychclassics.yorku.ca/James/Principles/index.htm)
