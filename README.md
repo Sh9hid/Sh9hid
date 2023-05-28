@@ -6,6 +6,7 @@ This is a list tracking my books, blog-posts, articles that I have yet to read o
 1. Research Papers
   + [PapersWithCode](https://www.paperswithcode.com)
     * [Segment Everything - Apr 2023](https://paperswithcode.com/paper/segment-everything-everywhere-all-at-once)
+    * [SoundStorm](https://arxiv.org/pdf/2305.09636.pdf)
   
 2. Blogposts  
   + [DistillPub - Visualisation](https://distill.pub/)
