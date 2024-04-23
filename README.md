@@ -11,7 +11,7 @@ This is a list tracking my books, blog-posts, articles that I have yet to read o
   + [DistillPub - Visualisation](https://distill.pub/)
   + [Jacobian Matrix and Determinant](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant)
   + [Eric Raymond](http://catb.org/)
-  + (https://vadimkravcenko.com/)
+  + [Vadim](https://vadimkravcenko.com/)
 3. Books
   + [RL Book](http://incompleteideas.net/book/RLbook2020.pdf)
   + [Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
