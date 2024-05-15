@@ -1,7 +1,6 @@
-# TO DO: 
+# Bookmarks: 
 
-
-This is a list tracking my books, blog-posts, articles that I have yet to read on the internet.
+A list tracking blog-posts, articles that I am currently interested in the internet.
 
 1. Research Papers
   + [PapersWithCode](https://www.paperswithcode.com)
