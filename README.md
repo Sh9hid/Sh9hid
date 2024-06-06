@@ -1,6 +1,6 @@
 # Bookmarks: 
 
-A list tracking blog-posts, articles that I currently interested to see.
+A list tracking blog-posts, articles that I am currently interested to see.
 
 1. Research Papers
   + [PapersWithCode](https://www.paperswithcode.com)
