@@ -18,3 +18,4 @@ A list tracking blog-posts, articles that I am currently interested to see.
 
 4. Cool stuff
   + [Shader Geometry](https://www.shadertoy.com)
+  + [Nvidia NIM](https://www.nvidia.com/en-us/ai/)
