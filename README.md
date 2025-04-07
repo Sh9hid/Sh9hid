@@ -21,7 +21,3 @@ A list tracking blog-posts, articles that I am currently interested to see.
   + [Nvidia NIM](https://www.nvidia.com/en-us/ai/)
   + [PrepAtlas](https://github.com/Sh9hid/PrepAtlas.git)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sh9hid" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sh9hid?trk=profile-badge">Abdullah Shahid Khan</a>
-</div>
-
