@@ -12,6 +12,7 @@ A list tracking blog-posts, articles that I am currently interested to see.
   + [Jacobian Matrix and Determinant](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant)
   + [Eric Raymond](http://catb.org/)
   + [Vadim](https://vadimkravcenko.com/)
+  + [One Stop MBA](https://www.onestopmba.com/)
 3. Books
   + [RL Book](http://incompleteideas.net/book/RLbook2020.pdf)
   + [Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
