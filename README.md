@@ -7,6 +7,7 @@ A list tracking blog-posts, articles that I am currently interested to see.
   + [SoundStorm](https://arxiv.org/pdf/2305.09636.pdf)
   + [Nemotron-4 340B](https://d1qx31qr3h6wln.cloudfront.net/publications/Nemotron_4_340B_8T.pdf)
   + [Science Daily](https://www.sciencedaily.com/)
+  + [Where Math meets the Internet](https://www.ams.org/notices/199808/paxson.pdf)
   
 2. Blogposts  
   + [DistillPub - Visualisation](https://distill.pub/)
