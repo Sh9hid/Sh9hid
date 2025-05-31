@@ -8,7 +8,7 @@ A list tracking blog-posts, articles that I am currently interested to see.
   + [Nemotron-4 340B](https://d1qx31qr3h6wln.cloudfront.net/publications/Nemotron_4_340B_8T.pdf)
   + [Science Daily](https://www.sciencedaily.com/)
   + [Where Mathematics Meets the Internet](https://www.ams.org/notices/199808/paxson.pdf)
-  + [Many But Infinite](https://manybutfinite.com/)
+  + [Many But Finite](https://manybutfinite.com/)
 
   
 2. Blogposts  
