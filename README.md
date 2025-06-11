@@ -19,6 +19,7 @@ A list tracking blog-posts, articles that I am currently interested to see.
   + [One Stop MBA](https://www.onestopmba.com/blog)
   + [Project F](https://projectf.io/)
 3. Books
+  + [MIRI's Research](https://intelligence.org/research-guide/#two)
   + [RL Book](http://incompleteideas.net/book/RLbook2020.pdf)
   + [Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
